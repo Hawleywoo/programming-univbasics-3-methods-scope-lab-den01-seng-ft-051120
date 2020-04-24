@@ -20,3 +20,5 @@ def all_phrases
   link
   puts link_phrase
 end
+
+all_phrases
